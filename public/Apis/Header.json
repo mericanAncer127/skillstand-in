@@ -1,11 +1,12 @@
 {
 	"title": {
-		"before": "Let’s",
-		"word": "Build",
-		"after": "Great Experiences Together"
+		"before1": "Ace",
+		"word1": "Interview,",
+		"before2": "Secure",
+		"word2": "the Offer."
 	},
-	"body": "Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern. Zwölf Boxkämpfer jagen Viktor quer über",
+	"body": "At SkillStand-In LLC, we redefine the hiring game. Unlike coaching services that only prepare you for interviews, we remove the risk entirely by having our expert interviewers stand in on your behalf and land the job for you.",
 	"button": "Explore",
-	"image": "./Images/Header/header-Illustration.svg",
-	"image_dark": "./Images/Header/header-Illustration-dark.svg"
+	"image": "./Images/Header/header-Illustration.jpg",
+	"image_dark": "./Images/Header/header-Illustration.jpg"
 }

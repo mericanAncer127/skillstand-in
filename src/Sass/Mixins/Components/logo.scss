@@ -10,6 +10,7 @@
 
 // Logo Image Mixin
 @mixin logo-image {
+	width: 200px;
 	display: block;
 	position: relative;
 	user-select: none;

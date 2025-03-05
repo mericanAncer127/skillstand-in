@@ -53,12 +53,10 @@ const FooterFooter = ({ copyRight }) => {
 					/>
 				)}
 
-				{text && <span className="logo-text">{text}</span>}
 			</Link>
 
 			<p className="copy-right">{copyRight}</p>
 
-			<div className="social-links">{socialList}</div>
 		</footer>
 	);
 };

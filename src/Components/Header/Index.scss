@@ -16,7 +16,6 @@
 
 		@media (min-width: $minLargeScreens) {
 			height: 100vh;
-			max-height: 700px;
 		}
 
 		@media (max-width: $maxMediumScreens) {
@@ -51,6 +50,12 @@
 				span {
 					color: $main-color;
 					font-weight: bold;
+				}
+				.before span {
+					color: #e02222;
+				}
+				.after span {
+					color: #22e022;
 				}
 			}
 

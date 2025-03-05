@@ -29,7 +29,6 @@ const NavbarLogo = () => {
 				<img src={image} alt="Logo" draggable="false" className="logo-image" />
 			)}
 
-			{text && <span className="logo-text">{text}</span>}
 		</Link>
 	);
 };

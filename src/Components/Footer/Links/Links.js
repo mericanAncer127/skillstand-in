@@ -11,7 +11,6 @@ const FooterLinks = ({ content: linksBlocks }) => {
 
 	const footerBlocks = [
 		...linksBlocks,
-		{ id: 4, title: "Social Media", links: social },
 	];
 
 	const footerBlocksList = footerBlocks.map((block) => {

@@ -1,37 +1,37 @@
 {
 	"header": {
 		"title": "Our Services",
-		"body": "Learn how we helped our several clients grow in online business. It will give you an idea of our capabilities."
+		"body": "We Handle Every Step of the Interview Process."
 	},
 
 	"content": [
 		{
 			"id": 1,
-			"title": "App Development",
-			"image": "./Images/Services/img-1.svg",
-			"image_dark": "./Images/Services/img-1-dark.svg",
-			"body": "We design and build iOS, Android or hybrid apps using react native and flutter or cordova"
+			"title": "Intro Call Representation",
+			"image": "./Images/Services/img-1.jpg",
+			"image_dark": "./Images/Services/img-1.jpg",
+			"body": "We take the initial recruiter and hiring manager calls, ensuring a great first impression with polished responses, clear communication, and confidence that aligns with your profile."
 		},
 		{
 			"id": 2,
-			"title": "Web Design",
-			"image": "./Images/Services/img-2.svg",
-			"image_dark": "./Images/Services/img-2-dark.svg",
-			"body": "We design and build iOS, Android or hybrid apps using react native and flutter or cordova"
+			"title": "Technical Interview Stand-Ins",
+			"image": "./Images/Services/img-2.jpg",
+			"image_dark": "./Images/Services/img-2.jpg",
+			"body": "From coding challenges to system design, our expert interviewers handle all technical assessments"
 		},
 		{
 			"id": 3,
-			"title": "Social Media",
-			"image": "./Images/Services/img-3.svg",
-			"image_dark": "./Images/Services/img-3-dark.svg",
-			"body": "How you present your brand is important. We make that process easy for you"
+			"title": "Behavioral & Cultural Fit Interviews",
+			"image": "./Images/Services/img-3.jpg",
+			"image_dark": "./Images/Services/img-3.jpg",
+			"body": "Companies hire for more than just skills. We ensure you check every box for culture, leadership, and soft skills, providing strategic answers that match the company’s expectations."
 		},
 		{
 			"id": 4,
-			"title": "Logo & Branding",
-			"image": "./Images/Services/img-4.svg",
-			"image_dark": "./Images/Services/img-4-dark.svg",
-			"body": "We craft exquisite brand identities that convey your product and service well to your clients"
+			"title": "Final Rounds & Panel Interviews",
+			"image": "./Images/Services/img-4.jpg",
+			"image_dark": "./Images/Services/img-4.jpg",
+			"body": "We navigate the toughest interview stages, handling executive, panel, and cross-functional interviews with professional presence, adaptability, and domain expertise."
 		}
 	]
 }

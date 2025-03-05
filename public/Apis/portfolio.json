@@ -1,119 +1,38 @@
 {
 	"header": {
-		"title": "Portfolio",
-		"body": "Checkout the work we’ve done for our other clients. Our portfolio includes case studies for work done for design, development and social"
+		"title": "Study Cases",
+		"body": "How We Secure Offers for Our Clients"
 	},
 
-	"nav": ["All Work", "Website", "Branding", "App", "Social Media"],
+	"nav": ["All Work", "System Design", "Live Coding", "Behaviour"],
 
 	"projects": [
 		{
 			"id": 1,
-			"image": "./Images/Portfolio/img-1.svg",
-			"type": "App",
-			"caption": "Weather And News App"
+			"image": "./Images/Portfolio/img-1.jpg",
+			"type": "Live Coding",
+			"caption": "Full-Stack Developer Gets Hired at FAANG",
+			"challenge": "The client had trouble with live coding interviews and technical assessments under time pressure.",
+			"solution": "We took over their coding challenges, showcasing expertise in React, Node.js, and database optimization.",
+			"outcome": "Landed a Full-Stack Developer position at a FAANG company with a six-figure salary."
 		},
 		{
 			"id": 2,
-			"image": "./Images/Portfolio/img-2.svg",
-			"type": "App",
-			"caption": "Weather And News App"
+			"image": "./Images/Portfolio/img-2.jpg",
+			"type": "System Design",
+			"caption": "Senior Backend Engineer Lands $250K+ Offer",
+			"challenge": "The candidate struggled with system design interviews and high-pressure coding challenges.",
+			"solution": "Our expert represented them in all rounds, confidently explaining complex architectures and best practices.",
+			"outcome": "Secured a Senior Backend Engineer role with a $250K+ offer at a Silicon Valley startup."
 		},
 		{
 			"id": 3,
-			"image": "./Images/Portfolio/img-3.svg",
-			"type": "Branding",
-			"caption": "Weather And News App"
-		},
-		{
-			"id": 4,
-			"image": "./Images/Portfolio/img-4.svg",
-			"type": "Branding",
-			"caption": "Coco Oil"
-		},
-		{
-			"id": 5,
-			"image": "./Images/Portfolio/img-5.svg",
-			"type": "App",
-			"caption": "Think Tank"
-		},
-		{
-			"id": 6,
-			"image": "./Images/Portfolio/img-6.svg",
-			"type": "App",
-			"caption": "Media Inc."
-		},
-		{
-			"id": 7,
-			"image": "./Images/Portfolio/img-7.svg",
-			"type": "App",
-			"caption": "Crypto App"
-		},
-		{
-			"id": 8,
-			"image": "./Images/Portfolio/img-8.svg",
-			"type": "Social Media",
-			"caption": "Aspire"
-		},
-		{
-			"id": 9,
-			"image": "./Images/Portfolio/img-9.svg",
-			"type": "Website",
-			"caption": "Some Company"
-		},
-		{
-			"id": 10,
-			"image": "./Images/Portfolio/img-1.svg",
-			"type": "App",
-			"caption": "Weather And News App"
-		},
-		{
-			"id": 11,
-			"image": "./Images/Portfolio/img-2.svg",
-			"type": "App",
-			"caption": "Weather And News App"
-		},
-		{
-			"id": 12,
-			"image": "./Images/Portfolio/img-3.svg",
-			"type": "Branding",
-			"caption": "Weather And News App"
-		},
-		{
-			"id": 13,
-			"image": "./Images/Portfolio/img-4.svg",
-			"type": "Branding",
-			"caption": "Coco Oil"
-		},
-		{
-			"id": 14,
-			"image": "./Images/Portfolio/img-5.svg",
-			"type": "App",
-			"caption": "Think Tank"
-		},
-		{
-			"id": 15,
-			"image": "./Images/Portfolio/img-6.svg",
-			"type": "App",
-			"caption": "Media Inc."
-		},
-		{
-			"id": 16,
-			"image": "./Images/Portfolio/img-7.svg",
-			"type": "App",
-			"caption": "Crypto App"
-		},
-		{
-			"id": 17,
-			"image": "./Images/Portfolio/img-8.svg",
-			"type": "Social Media",
-			"caption": "Aspire"
-		},
-		{
-			"id": 18,
-			"image": "./Images/Portfolio/img-9.svg",
-			"type": "Website",
-			"caption": "Some Company"
+			"image": "./Images/Portfolio/img-3.jpg",
+			"type": "Behaviour",
+			"caption": "Frontend Engineer Moves from Startup to Big Tech",
+			"challenge": "The candidate struggled with behavioral interviews and confidence in storytelling.",
+			"solution": "We provided a professional, well-articulated stand-in who demonstrated strong communication, teamwork, and leadership skills.",
+			"outcome": "Received an offer at a top-tier tech company, doubling their salary."
 		}
 	]
 }

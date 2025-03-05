@@ -2,24 +2,70 @@
 @import "./../../../Sass/mixins";
 
 .about-body {
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
+	display: flex;
 	align-items: center;
 	justify-content: space-between;
 	gap: 50px;
 
 	@media (max-width: $maxSmallScreens) {
-		grid-template-columns: 1fr;
 		gap: 30px;
+		flex-direction: column;
 	}
 
 	.about-image {
+		flex-grow: 1;
+		width: 100%;
 		img {
 			width: 100%;
 			user-select: none;
 		}
 	}
 
+	.about-information {
+		flex-grow: 1;
+		width: 100%;
+	}
+
+	.about-mission {
+		.desc-title {
+			@include second-header;
+			font-size: 1.5rem;
+			margin-bottom: 25px;
+
+			@media (max-width: $maxMediumScreens) {
+				margin-bottom: 20px;
+			}
+		}
+		.desc-mission {
+			@include body-text;
+			margin-bottom: 16px;
+			font-size: 1.2rem;
+
+			@media (max-width: $maxMediumScreens) {
+				font-size: 1rem;
+			}
+		}
+	}
+	.about-whyweexist {
+		.desc-title {
+			@include second-header;
+			font-size: 1.5rem;
+			margin-bottom: 25px;
+
+			@media (max-width: $maxMediumScreens) {
+				margin-bottom: 20px;
+			}
+		}
+		.desc-whyweexist{
+			@include body-text;
+			margin-bottom: 16px;
+			font-size: 1.2rem;
+
+			@media (max-width: $maxMediumScreens) {
+				font-size: 1rem;
+			}
+		}
+	}
 	.about-desc {
 		transition: opacity 0.3s linear;
 

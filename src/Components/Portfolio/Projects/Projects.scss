@@ -44,7 +44,7 @@
 			background-color: $upper-background-color;
 			opacity: 0.5;
 			filter: brightness(15);
-			border-radius: 65px;
+			border-radius: 38px;
 
 			@supports (backdrop-filter: blur(30px)) {
 				-webkit-backdrop-filter: blur(30px);
@@ -59,10 +59,11 @@
 		figure {
 			.project-image {
 				position: relative;
-				border-radius: 65px;
+				border-radius: 38px;
 				overflow: hidden;
 
 				img {
+					border-radius: 38px;
 					width: 100%;
 					display: block;
 					user-select: none;
@@ -87,6 +88,29 @@
 						padding: 7px 20px;
 					}
 				}
+				.case-study-desc {
+					text-align: left;
+					.challenge {
+						padding: 18px;
+						background: #0a642288;
+					}
+					.solution {
+						padding: 18px;
+						background: rgba(76, 228, 142, 0.5960784314);
+					}
+					.outcome {
+						height: 300px;
+						padding: 18px;
+						background: rgba(26, 198, 172, 0.7960784314);
+					}
+					color: #fff;
+					font-weight: 400;
+					line-height: 1.2;
+					font-size: 0.9rem;
+					top: 0;
+					position: absolute;
+					display: none;
+				}
 			}
 
 			figcaption {
@@ -105,6 +129,9 @@
 		&:hover {
 			figure {
 				.project-image {
+					.case-study-desc {
+						display: block;
+					}
 					img {
 						transform: scale(1.27) rotate(5deg);
 					}
