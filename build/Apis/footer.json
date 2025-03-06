@@ -1,0 +1,57 @@
+{
+	"header": {
+		"title": "Join our exclusive membership to receive the latest news and trends"
+	},
+
+	"content": [
+		{
+			"id": 1,
+			"title": "About Us",
+			"links": [
+				{
+					"id": 1,
+					"name": "How it works",
+					"link": "/"
+				},
+				{
+					"id": 2,
+					"name": "Testimonials",
+					"link": "/"
+				},
+				{
+					"id": 3,
+					"name": "Careers",
+					"link": "/"
+				},
+				{
+					"id": 4,
+					"name": "Investors",
+					"link": "/"
+				},
+				{
+					"id": 5,
+					"name": "Terms of Service",
+					"link": "/"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "Contact Us",
+			"links": [
+				{
+					"id": 1,
+					"name": "Contact",
+					"link": "/"
+				},
+				{
+					"id": 2,
+					"name": "Join Our Slack",
+					"link": "https://join.slack.com/t/careersskills-9y56712/shared_invite/zt-31a25opr5-Iz0S0tt7x3kbRe1eBZZ9uA"
+				}
+			]
+		}
+	],
+
+	"copy_right": "© 2023 | designed by SkillStandIn Engineering Team"
+}

@@ -1,0 +1,78 @@
+{
+	"header": {
+		"title": "Our Team",
+		"body": "Our wonderful team makes it possible for us to do the things we do."
+	},
+
+	"content": [
+		{
+			"id": 1,
+			"image": "./Images/Team/img-1.jpg",
+			"name": "Remy W.",
+			"role": "CEO",
+			"social": [
+				{
+					"id": 1,
+					"icon": "fab fa-instagram",
+					"link": "https://www.instagram.com/kirolosmahfouz/"
+				},
+				{
+					"id": 2,
+					"icon": "fab fa-facebook-square",
+					"link": "https://www.facebook.com/KirolosMahfouz/"
+				},
+				{
+					"id": 3,
+					"icon": "fab fa-twitter",
+					"link": "https://twitter.com/KirolosMahfouz1"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"image": "./Images/Team/img-2.jpg",
+			"name": "Duo Ali",
+			"role": "Vice President",
+			"social": [
+				{
+					"id": 1,
+					"icon": "fab fa-instagram",
+					"link": "https://www.instagram.com/kirolosmahfouz/"
+				},
+				{
+					"id": 2,
+					"icon": "fab fa-facebook-square",
+					"link": "https://www.facebook.com/KirolosMahfouz/"
+				},
+				{
+					"id": 3,
+					"icon": "fab fa-twitter",
+					"link": "https://twitter.com/KirolosMahfouz1"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"image": "./Images/Team/img-3.jpg",
+			"name": "Jessica Green",
+			"role": "Social Media Manager",
+			"social": [
+				{
+					"id": 1,
+					"icon": "fab fa-instagram",
+					"link": "https://www.instagram.com/kirolosmahfouz/"
+				},
+				{
+					"id": 2,
+					"icon": "fab fa-facebook-square",
+					"link": "https://www.facebook.com/KirolosMahfouz/"
+				},
+				{
+					"id": 3,
+					"icon": "fab fa-twitter",
+					"link": "https://twitter.com/KirolosMahfouz1"
+				}
+			]
+		}
+	]
+}

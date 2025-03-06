@@ -1,0 +1,29 @@
+{
+	"header": {
+		"title": "About SkillStand-In LLC",
+		"body": "Learn how we helped our several clients to redefine the Hiring Game"
+	},
+
+	"content": {
+		"image": "./Images/About/about.jpg",
+		"image_dark": "./Images/About/about.jpg",
+
+		"title": "What We Do",
+
+		"mission": "To eliminate interview anxiety and help top talent secure high-paying roles without the stress of navigating the hiring process alone.",
+
+		"whyweexist": [
+			"The best engineers don’t always get the best jobs—interviews are a separate skillset.",
+			"We remove the uncertainty by representing you with proven expertise.",
+			"We level the playing field, ensuring your skills get the opportunities they deserve."
+		],
+
+		"paragraph_1": "At SkillStand-In LLC, we believe that interviews shouldn’t be a barrier to opportunity. Many software engineers are brilliant at their craft but struggle with high-pressure interviews ...",
+
+		"paragraph_1_more": "At SkillStand-In LLC, we believe that interviews shouldn’t be a barrier to opportunity. Many software engineers are brilliant at their craft but struggle with high-pressure interviews that don’t always reflect their true abilities. That’s where we come in.",
+
+		"paragraph_2": "We’re not a coaching service—we’re a results-driven solution. Our expert interviewers stand in for you, handling every stage of the hiring process with confidence, ...",
+
+		"paragraph_2_more": "We’re not a coaching service—we’re a results-driven solution. Our expert interviewers stand in for you, handling every stage of the hiring process with confidence, strategy, and precision. From technical challenges to final rounds, we ensure hiring teams see exactly what they’re looking for: a top-tier candidate ready to succeed."
+	}
+}

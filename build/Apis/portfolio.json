@@ -1,0 +1,38 @@
+{
+	"header": {
+		"title": "Study Cases",
+		"body": "How We Secure Offers for Our Clients"
+	},
+
+	"nav": ["All Work", "System Design", "Live Coding", "Behaviour"],
+
+	"projects": [
+		{
+			"id": 1,
+			"image": "./Images/Portfolio/img-1.jpg",
+			"type": "Live Coding",
+			"caption": "Full-Stack Developer Gets Hired at FAANG",
+			"challenge": "The client had trouble with live coding interviews and technical assessments under time pressure.",
+			"solution": "We took over their coding challenges, showcasing expertise in React, Node.js, and database optimization.",
+			"outcome": "Landed a Full-Stack Developer position at a FAANG company with a six-figure salary."
+		},
+		{
+			"id": 2,
+			"image": "./Images/Portfolio/img-2.jpg",
+			"type": "System Design",
+			"caption": "Senior Backend Engineer Lands $250K+ Offer",
+			"challenge": "The candidate struggled with system design interviews and high-pressure coding challenges.",
+			"solution": "Our expert represented them in all rounds, confidently explaining complex architectures and best practices.",
+			"outcome": "Secured a Senior Backend Engineer role with a $250K+ offer at a Silicon Valley startup."
+		},
+		{
+			"id": 3,
+			"image": "./Images/Portfolio/img-3.jpg",
+			"type": "Behaviour",
+			"caption": "Frontend Engineer Moves from Startup to Big Tech",
+			"challenge": "The candidate struggled with behavioral interviews and confidence in storytelling.",
+			"solution": "We provided a professional, well-articulated stand-in who demonstrated strong communication, teamwork, and leadership skills.",
+			"outcome": "Received an offer at a top-tier tech company, doubling their salary."
+		}
+	]
+}

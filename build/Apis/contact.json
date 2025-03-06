@@ -1,0 +1,32 @@
+{
+	"header": {
+		"title": "Contact Us",
+		"body": "Are you interested in our mission? Give us a call or reach out to us on social media"
+	},
+
+	"content": [
+		{
+			"id": 1,
+			"title": "Address",
+			"icon": "fas fa-map-marker-alt",
+			"text_1": "909 N Ave",
+			"text_2": "Denver City, TX",
+			"text_3": "79545, US"
+		},
+		{
+			"id": 2,
+			"title": "Call for queries",
+			"icon": "fas fa-mobile-alt",
+			"text_1": "443-470-5273",
+			"text_3": ""
+		},
+		{
+			"id": 3,
+			"title": "Email Us",
+			"icon": "fas fa-envelope",
+			"text_1": "career@skillstandin.com",
+			"text_2": "",
+			"text_3": ""
+		}
+	]
+}
