@@ -28,7 +28,7 @@ const Header = () => {
     success,
     isPending,
     error,
-  } = useAxios("./Apis/header.json", []);
+  } = useAxios("./Apis/Header.json", []);
 
   // Scroll To Services Section Ref
   const header = useRef();

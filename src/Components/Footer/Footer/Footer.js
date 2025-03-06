@@ -17,7 +17,7 @@ const FooterFooter = ({ copyRight }) => {
 	// Fetch Logo
 	const {
 		data: { image = "", text = "" },
-	} = useAxios("./Apis/logo.json", []);
+	} = useAxios("./Apis/Logo.json", []);
 
 	// Fetch Social
 	const { data: social = [] } = useAxios("./Apis/social.json", []);

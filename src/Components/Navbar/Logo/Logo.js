@@ -17,7 +17,7 @@ const NavbarLogo = () => {
 	// Fetch data
 	const {
 		data: { image = "", text = "" },
-	} = useAxios("./Apis/logo.json", []);
+	} = useAxios("./Apis/Logo.json", []);
 
 	return (
 		<Link
